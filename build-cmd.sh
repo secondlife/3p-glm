@@ -30,6 +30,6 @@ glm_SOURCE_DIR="glm"
 mkdir -p "$stage/include/glm"
 cp -a $glm_SOURCE_DIR/* "$stage/include/glm"
 mkdir -p "$stage/LICENSES"
-cp -a ../LICENSE.glm "$stage/LICENSES/glm_license.txt"
+cp -a LICENSE.glm "$stage/LICENSES/glm_license.txt"
 echo "v1.0.1" > "$stage/include/glm/glm_version.txt"
 
