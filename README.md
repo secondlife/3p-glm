@@ -3,4 +3,4 @@
 [Autobuild][] packaged [glm][].
 
 [Autobuild]: https://github.com/secondlife/autobuild
-[tinyexr]: https://github.com/g-truc/glm
+[glm]: https://github.com/g-truc/glm
